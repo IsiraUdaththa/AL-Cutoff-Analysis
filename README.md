@@ -1,4 +1,4 @@
-# Sri Lanka AL Cutoff Analysis
+# Sri Lanka A/L Cutoff Analysis
 
 This repository contains analysis and data regarding the minimum "Z" scores for selection to various courses of study at universities in Sri Lanka for various academic years, based on the results of the G.C.E. (Advanced Level) Examination (after re-scrutiny).
 
